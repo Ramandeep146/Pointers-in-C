@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677399510 source:c:\users\raman\onedrive\documents\c\characterarraysandpointerspart2\characterarraysandpointerspart2.c
+	<stdio.h>
+	<string.h>
+
